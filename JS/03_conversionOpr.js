@@ -1,4 +1,4 @@
-let score ="33abc"
+let score = 293844
 // console.log(typeof(score))
 // console.log(typeof score);
 
@@ -15,10 +15,14 @@ true =1; false=0;
 
 */
 
-let isLoggedIn ="Abhay"
+let isLoggedIn = 1;
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn);
 
-setTimeout(() => {
-    console.log("Abhay");
-} , 3000)
+// setTimeout(() => {
+//     console.log("Abhay");
+// } , 3000)
+
+// let number = BigInt(score);
+// console.log(typeof number);
+// console.log(number);
