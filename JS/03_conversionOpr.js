@@ -26,3 +26,4 @@ console.log(booleanIsLoggedIn);
 // let number = BigInt(score);
 // console.log(typeof number);
 // console.log(number);
+
