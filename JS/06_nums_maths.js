@@ -9,3 +9,5 @@ console.log(balance.toFixed(1));
 
 const otherNumber = 1123.9344;
 console.log(otherNumber.toPrecision(3));
+
+console.log(typeof(score))
